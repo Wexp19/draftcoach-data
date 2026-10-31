@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "sequence": 1,
+  "datasetVersion": "0.2-roster-2026.10.31",
+  "minimumEngineVersion": 2,
+  "path": "releases/1/dataset.json",
+  "bytes": 157171,
+  "sha256": "066208b57d24576e7014d9a4076da6c10edef1131eea0683d81de2827cd74d09",
+  "patch": "2.2.16a (secondary-source report)",
+  "updatedAt": "2026-10-31T00:00:00Z"
+}
