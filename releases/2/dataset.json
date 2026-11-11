@@ -1,0 +1,6684 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "0.2-roster-2026.11.12",
+  "heroDataVersion": "3",
+  "engineConfigVersion": "2",
+  "updatedAt": "2026-11-11T16:33:56Z",
+  "authoredDate": "2026-10-31",
+  "patchVerified": false,
+  "patch": "2.2.16a (secondary-source report)",
+  "provenance": "133 names reconciled with secondary roster on 2026-10-31. Patch 2.2.16a is reported by a secondary source, not independently official-verified. Stats remain coarse estimates; priorities neutral except small provisional adjustments for reported patch changes. No measured pick/win rates used. EXPERIMENTAL describes profile knowledge confidence. November 11, 2026: verified Popol and Kupa hero revamp layered onto the reported baseline. Full live build identifier unconfirmed. No new ranked statistics.",
+  "scale": "All stats and relationship weights: 0..1. Role assignments are estimates, not restrictions in MLBB.",
+  "heroes": [
+    {
+      "id": "masha",
+      "name": "Masha",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.9,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.85,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.9,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/masha",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "aulus",
+      "name": "Aulus",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.45,
+      "stats": {
+        "earlyGame": 0.25,
+        "midGame": 0.8,
+        "lateGame": 1,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 1,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.9,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/aulus",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength",
+        "Secondary source reports a nerf in 2.2.16a; magnitude not independently verified"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "yin",
+      "name": "Yin",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.65,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.9,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 1
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/yin",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hirara",
+      "name": "Hirara",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.45,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/hirara",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength",
+        "Secondary source reports a nerf in 2.2.16a; magnitude not independently verified"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/sora",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "marcel",
+      "name": "Marcel",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.45,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.85,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/marcel",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "gloo",
+      "name": "Gloo",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.95,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.85,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.9,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/gloo",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "jawhead",
+      "name": "Jawhead",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM",
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/jawhead",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "kalea",
+      "name": "Kalea",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.55,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.45,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.85,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/kalea",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "leomord",
+      "name": "Leomord",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/leomord",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lukas",
+      "name": "Lukas",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/lukas",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "obsidia",
+      "name": "Obsidia",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/obsidia",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "zetian",
+      "name": "Zetian",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/zetian",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "valir",
+      "name": "Valir",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.95,
+        "peel": 0.95,
+        "crowdControl": 0.9,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://mlbbhub.com/heroes/valir",
+          "checkedAt": "2026-10-31",
+          "sourceTier": "secondary",
+          "scope": "roster and tentative role only; archetype scores remain estimates"
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hayabusa",
+      "name": "Hayabusa",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [
+        "haya"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "fanny",
+      "name": "Fanny",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.85,
+        "midGame": 0.9,
+        "lateGame": 0.55,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.05,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "khufra": 0.85,
+        "franco": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "ling",
+      "name": "Ling",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.3,
+        "midGame": 0.9,
+        "lateGame": 0.95,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.95,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "franco": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lancelot",
+      "name": "Lancelot",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "khufra": 0.8,
+        "minsitthar": 0.85,
+        "franco": 0.6
+      },
+      "aliases": [
+        "lance"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "nolan",
+      "name": "Nolan",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "gusion",
+      "name": "Gusion",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "MID"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.5,
+        "durability": 0.3,
+        "burst": 1,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.8,
+        "mobility": 0.55,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {
+        "layla": 0.85,
+        "miya": 0.75,
+        "novaria": 0.65
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "helcurt",
+      "name": "Helcurt",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "natalia",
+      "name": "Natalia",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {
+        "layla": 0.7,
+        "gord": 0.7
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "aamon",
+      "name": "Aamon",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "karina",
+      "name": "Karina",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "joy",
+      "name": "Joy",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "suyou",
+      "name": "Suyou",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "julian",
+      "name": "Julian",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "MID",
+        "EXP"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "harley",
+      "name": "Harley",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hanzo",
+      "name": "Hanzo",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "yi_sun_shin",
+      "name": "Yi Sun-shin",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [
+        "yss"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "granger",
+      "name": "Granger",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "lolita": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "roger",
+      "name": "Roger",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "GOLD"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "melissa": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "fredrinn",
+      "name": "Fredrinn",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.85,
+        "lateGame": 0.65,
+        "durability": 0.95,
+        "burst": 0.4,
+        "sustainedDamage": 0.55,
+        "engage": 0.7,
+        "disengage": 0.45,
+        "peel": 0.6,
+        "crowdControl": 0.8,
+        "mobility": 0.45,
+        "waveClear": 0.6,
+        "objectiveControl": 0.85,
+        "backlineAccess": 0.4,
+        "poke": 0.2,
+        "sustain": 0.65,
+        "splitPush": 0.4,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "karrie": 0.75,
+        "lunox": 0.7
+      },
+      "aliases": [
+        "fred"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "baxia",
+      "name": "Baxia",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.85,
+        "lateGame": 0.65,
+        "durability": 0.95,
+        "burst": 0.4,
+        "sustainedDamage": 0.55,
+        "engage": 0.7,
+        "disengage": 0.45,
+        "peel": 0.6,
+        "crowdControl": 0.8,
+        "mobility": 0.45,
+        "waveClear": 0.6,
+        "objectiveControl": 0.85,
+        "backlineAccess": 0.4,
+        "poke": 0.2,
+        "sustain": 0.65,
+        "splitPush": 0.4,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {
+        "estes": 0.8,
+        "uranus": 0.8,
+        "esmeralda": 0.65,
+        "ruby": 0.6
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "akai",
+      "name": "Akai",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.85,
+        "lateGame": 0.65,
+        "durability": 0.95,
+        "burst": 0.4,
+        "sustainedDamage": 0.55,
+        "engage": 0.7,
+        "disengage": 0.45,
+        "peel": 0.6,
+        "crowdControl": 0.8,
+        "mobility": 0.45,
+        "waveClear": 0.6,
+        "objectiveControl": 0.85,
+        "backlineAccess": 0.4,
+        "poke": 0.2,
+        "sustain": 0.65,
+        "splitPush": 0.4,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "barats",
+      "name": "Barats",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.85,
+        "lateGame": 0.65,
+        "durability": 0.95,
+        "burst": 0.4,
+        "sustainedDamage": 0.55,
+        "engage": 0.7,
+        "disengage": 0.45,
+        "peel": 0.6,
+        "crowdControl": 0.8,
+        "mobility": 0.45,
+        "waveClear": 0.6,
+        "objectiveControl": 0.85,
+        "backlineAccess": 0.4,
+        "poke": 0.2,
+        "sustain": 0.65,
+        "splitPush": 0.4,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "karrie": 0.8,
+        "lunox": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "balmond",
+      "name": "Balmond",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "martis",
+      "name": "Martis",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "harith",
+      "name": "Harith",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [
+        "MID"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 1,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.1,
+        "mobility": 0.95,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "khufra": 0.7,
+        "minsitthar": 0.85
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "beatrix",
+      "name": "Beatrix",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.9,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [
+        "bea"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "brody",
+      "name": "Brody",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.8,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.85,
+        "sustainedDamage": 0.7,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "bruno",
+      "name": "Bruno",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.25,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.95,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.85,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "clint",
+      "name": "Clint",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.8,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.85,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.9,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "irithel",
+      "name": "Irithel",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "ixia",
+      "name": "Ixia",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "kadita": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "karrie",
+      "name": "Karrie",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.2,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {
+        "hylos": 0.85,
+        "belerick": 0.7,
+        "fredrinn": 0.75,
+        "barats": 0.8
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "melissa",
+      "name": "Melissa",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.8,
+        "peel": 0.6,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {
+        "alucard": 0.65,
+        "zilong": 0.65,
+        "argus": 0.6
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "moskov",
+      "name": "Moskov",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "natan",
+      "name": "Natan",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.95,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "popol_and_kupa",
+      "name": "Popol and Kupa",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [
+        "popol",
+        "p_k"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [
+        {
+          "url": "https://t.me/Mobilelegendsgameofficial/9122",
+          "checkedAt": "2026-11-12",
+          "sourceTier": "official",
+          "scope": "Publisher confirms the Popol and Kupa revamp goes live November 11, 2026."
+        },
+        {
+          "url": "https://esports.gg/guides/mobile-legends-bang-bang/popol-and-kupa-revamp-guide/",
+          "checkedAt": "2026-11-12",
+          "sourceTier": "secondary",
+          "scope": "Live revamp guide corroborates mounted movement. The mobility rating is a qualitative estimate. No balance numbers imported."
+        }
+      ],
+      "known": [
+        "Coarse role and composition estimates",
+        "November 11 revamp adds mounted movement for chasing or repositioning. Mobility is a provisional kit estimate."
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength",
+        "Post-revamp ranked results, role performance and matchup strength are unverified."
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "wanwan",
+      "name": "Wanwan",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "khufra": 0.75,
+        "minsitthar": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lesley",
+      "name": "Lesley",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.2,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 1,
+        "sustainedDamage": 0.65,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.95,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "layla",
+      "name": "Layla",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.05,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "saber": 0.85,
+        "natalia": 0.7,
+        "yu_zhong": 0.7,
+        "kadita": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "miya",
+      "name": "Miya",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "saber": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hanabi",
+      "name": "Hanabi",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "kimmy",
+      "name": "Kimmy",
+      "primaryRoles": [
+        "GOLD"
+      ],
+      "secondaryRoles": [
+        "MID"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.65,
+        "lateGame": 1,
+        "durability": 0.2,
+        "burst": 0.5,
+        "sustainedDamage": 1,
+        "engage": 0.15,
+        "disengage": 0.25,
+        "peel": 0.1,
+        "crowdControl": 0.25,
+        "mobility": 0.4,
+        "waveClear": 0.65,
+        "objectiveControl": 1,
+        "backlineAccess": 0.4,
+        "poke": 0.55,
+        "sustain": 0.15,
+        "splitPush": 0.9,
+        "pickoff": 0.4
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "lolita": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "edith",
+      "name": "Edith",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.85,
+        "burst": 0.25,
+        "sustainedDamage": 0.85,
+        "engage": 0.8,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "khaleed",
+      "name": "Khaleed",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.95,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.7,
+        "poke": 0.25,
+        "sustain": 0.9,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "yu_zhong",
+      "name": "Yu Zhong",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.85,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.95,
+        "poke": 0.25,
+        "sustain": 0.95,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {
+        "pharsa": 0.75,
+        "yve": 0.75,
+        "layla": 0.7
+      },
+      "counteredBy": {},
+      "aliases": [
+        "yz"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "terizla",
+      "name": "Terizla",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.9,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.85,
+        "mobility": 0.2,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "arlott",
+      "name": "Arlott",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "benedetta",
+      "name": "Benedetta",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "minsitthar": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "paquito",
+      "name": "Paquito",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "chou",
+      "name": "Chou",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.4,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.9,
+        "crowdControl": 0.95,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.9,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {
+        "ixia": 0.75,
+        "natan": 0.65
+      },
+      "counters": {},
+      "counteredBy": {
+        "baxia": 0.6
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lapu_lapu",
+      "name": "Lapu-Lapu",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "phoveus",
+      "name": "Phoveus",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "gatotkaca",
+      "name": "Gatotkaca",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.95,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.1,
+        "disengage": 0.35,
+        "peel": 0.1,
+        "crowdControl": 0.05,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 1,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "baxia": 0.8
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "esmeralda",
+      "name": "Esmeralda",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "baxia": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "xborg",
+      "name": "X.Borg",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "cici",
+      "name": "Cici",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "dyrroth",
+      "name": "Dyrroth",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "freya",
+      "name": "Freya",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "guinevere",
+      "name": "Guinevere",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "badang",
+      "name": "Badang",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.3,
+        "midGame": 0.8,
+        "lateGame": 0.95,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.95,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 1,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "melissa": 0.6
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.35,
+        "midGame": 0.8,
+        "lateGame": 0.95,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.95,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.15,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 1,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "zilong",
+      "name": "Zilong",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.35,
+        "mobility": 1,
+        "waveClear": 0.65,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 0.95
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "melissa": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "aldous",
+      "name": "Aldous",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.2,
+        "midGame": 0.8,
+        "lateGame": 1,
+        "durability": 0.75,
+        "burst": 1,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "silvanna",
+      "name": "Silvanna",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "thamuz",
+      "name": "Thamuz",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "minsitthar",
+      "name": "Minsitthar",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {
+        "lancelot": 0.85,
+        "harith": 0.85,
+        "benedetta": 0.7,
+        "wanwan": 0.75
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hilda",
+      "name": "Hilda",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 1,
+        "midGame": 0.8,
+        "lateGame": 0.4,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "hylos",
+      "name": "Hylos",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "karrie": 0.85,
+        "lunox": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "tigreal",
+      "name": "Tigreal",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {
+        "pharsa": 0.9,
+        "ixia": 0.85,
+        "odette": 0.85
+      },
+      "counters": {},
+      "counteredBy": {
+        "diggie": 0.95,
+        "valentina": 0.6
+      },
+      "aliases": [
+        "tig"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "khufra",
+      "name": "Khufra",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {
+        "fanny": 0.85,
+        "lancelot": 0.8,
+        "harith": 0.7,
+        "wanwan": 0.75
+      },
+      "counteredBy": {
+        "diggie": 0.65
+      },
+      "aliases": [
+        "khuf"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {
+        "pharsa": 0.85,
+        "claude": 0.8,
+        "odette": 0.9
+      },
+      "counters": {},
+      "counteredBy": {
+        "diggie": 0.95,
+        "valentina": 0.6
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "minotaur",
+      "name": "Minotaur",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.85,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.85,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {
+        "claude": 0.65,
+        "beatrix": 0.65
+      },
+      "counters": {},
+      "counteredBy": {
+        "diggie": 0.7
+      },
+      "aliases": [
+        "mino"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lolita",
+      "name": "Lolita",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {
+        "change": 0.85,
+        "kimmy": 0.75,
+        "granger": 0.65
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "belerick",
+      "name": "Belerick",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "karrie": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "franco",
+      "name": "Franco",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.7,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.25,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 1
+      },
+      "synergies": {},
+      "counters": {
+        "fanny": 0.7,
+        "ling": 0.7,
+        "lancelot": 0.6
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "grock",
+      "name": "Grock",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "physical",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "johnson",
+      "name": "Johnson",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {
+        "odette": 0.85
+      },
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "chip",
+      "name": "Chip",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 1,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.85,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "carmilla",
+      "name": "Carmilla",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {
+        "luo_yi": 0.85,
+        "ixia": 0.8
+      },
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "mathilda",
+      "name": "Mathilda",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.7,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 1,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.35,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {
+        "yve": 0.75,
+        "pharsa": 0.75
+      },
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [
+        "math"
+      ],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "angela",
+      "name": "Angela",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.4,
+        "mobility": 0.7,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.9,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {
+        "fredrinn": 0.65,
+        "ling": 0.7,
+        "roger": 0.75
+      },
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "floryn",
+      "name": "Floryn",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.45,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.85,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "estes",
+      "name": "Estes",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.1,
+        "disengage": 0.4,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.15,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 1,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "baxia": 0.8
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "rafaela",
+      "name": "Rafaela",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.45,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.45,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.85,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength",
+        "Secondary source reports a nerf in 2.2.16a; magnitude not independently verified"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "diggie",
+      "name": "Diggie",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.4,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 1,
+        "peel": 1,
+        "crowdControl": 0.65,
+        "mobility": 0.45,
+        "waveClear": 0.4,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.1,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {
+        "tigreal": 0.95,
+        "atlas": 0.95,
+        "khufra": 0.65,
+        "minotaur": 0.7
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "faramis",
+      "name": "Faramis",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.6,
+        "midGame": 0.75,
+        "lateGame": 0.8,
+        "durability": 0.3,
+        "burst": 0.2,
+        "sustainedDamage": 0.25,
+        "engage": 0.25,
+        "disengage": 0.9,
+        "peel": 1,
+        "crowdControl": 0.6,
+        "mobility": 0.45,
+        "waveClear": 0.85,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.1,
+        "poke": 0.4,
+        "sustain": 0.5,
+        "splitPush": 0.2,
+        "pickoff": 0.3
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "valentina": 0.7
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "kaja",
+      "name": "Kaja",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 1,
+        "burst": 0.25,
+        "sustainedDamage": 0.25,
+        "engage": 0.9,
+        "disengage": 0.5,
+        "peel": 0.85,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 0.45,
+        "objectiveControl": 0.35,
+        "backlineAccess": 0.45,
+        "poke": 0.2,
+        "sustain": 0.45,
+        "splitPush": 0.2,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "selena",
+      "name": "Selena",
+      "primaryRoles": [
+        "ROAM"
+      ],
+      "secondaryRoles": [
+        "MID"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.5,
+        "midGame": 0.9,
+        "lateGame": 0.7,
+        "durability": 0.3,
+        "burst": 0.95,
+        "sustainedDamage": 0.55,
+        "engage": 0.6,
+        "disengage": 0.55,
+        "peel": 0.1,
+        "crowdControl": 0.9,
+        "mobility": 1,
+        "waveClear": 0.3,
+        "objectiveControl": 0.65,
+        "backlineAccess": 1,
+        "poke": 0.25,
+        "sustain": 0.25,
+        "splitPush": 0.65,
+        "pickoff": 1
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "valentina",
+      "name": "Valentina",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {
+        "atlas": 0.6,
+        "faramis": 0.7,
+        "tigreal": 0.6
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "zhuxin",
+      "name": "Zhuxin",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.35,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.8,
+        "crowdControl": 0.95,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.6,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "zhask",
+      "name": "Zhask",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.9,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.15,
+        "waveClear": 0.95,
+        "objectiveControl": 0.8,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "pharsa",
+      "name": "Pharsa",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.95,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.7,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 1,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "yu_zhong": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "yve",
+      "name": "Yve",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "yu_zhong": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "xavier",
+      "name": "Xavier",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.4,
+        "midGame": 0.85,
+        "lateGame": 1,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 1,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "novaria",
+      "name": "Novaria",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.25,
+        "mobility": 0.65,
+        "waveClear": 1,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 1,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "saber": 0.65
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lylia",
+      "name": "Lylia",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.9,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.9,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "lunox",
+      "name": "Lunox",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [
+        "GOLD"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 1,
+        "engage": 0.55,
+        "disengage": 0.85,
+        "peel": 0.45,
+        "crowdControl": 0.1,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {
+        "hylos": 0.75,
+        "fredrinn": 0.7,
+        "barats": 0.75
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "kagura",
+      "name": "Kagura",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.85,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.85,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "kadita",
+      "name": "Kadita",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [
+        "ROAM"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 1,
+        "sustainedDamage": 0.5,
+        "engage": 0.85,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.9,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {
+        "layla": 0.7,
+        "gord": 0.75,
+        "ixia": 0.65
+      },
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "vexana",
+      "name": "Vexana",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.95,
+        "mobility": 0.35,
+        "waveClear": 1,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.85,
+        "crowdControl": 1,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "eudora",
+      "name": "Eudora",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.45,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength",
+        "Secondary source reports a nerf in 2.2.16a; magnitude not independently verified"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "vale",
+      "name": "Vale",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "cecilion",
+      "name": "Cecilion",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.25,
+        "midGame": 0.85,
+        "lateGame": 1,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 1,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "change",
+      "name": "Chang'e",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "lolita": 0.85
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [
+        "JUNGLE"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "gord",
+      "name": "Gord",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.85,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.1,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {
+        "natalia": 0.7,
+        "kadita": 0.75
+      },
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "nana",
+      "name": "Nana",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "odette",
+      "name": "Odette",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.15,
+        "disengage": 0.1,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.15,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "alice",
+      "name": "Alice",
+      "primaryRoles": [
+        "EXP"
+      ],
+      "secondaryRoles": [
+        "MID"
+      ],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.55,
+        "midGame": 0.85,
+        "lateGame": 0.85,
+        "durability": 0.5,
+        "burst": 0.6,
+        "sustainedDamage": 0.8,
+        "engage": 0.55,
+        "disengage": 0.6,
+        "peel": 0.45,
+        "crowdControl": 0.5,
+        "mobility": 0.75,
+        "waveClear": 0.85,
+        "objectiveControl": 0.65,
+        "backlineAccess": 0.65,
+        "poke": 0.55,
+        "sustain": 0.65,
+        "splitPush": 0.55,
+        "pickoff": 0.6
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "luo_yi",
+      "name": "Luo Yi",
+      "primaryRoles": [
+        "MID"
+      ],
+      "secondaryRoles": [],
+      "damageType": "magic",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.65,
+        "midGame": 0.85,
+        "lateGame": 0.8,
+        "durability": 0.25,
+        "burst": 0.85,
+        "sustainedDamage": 0.5,
+        "engage": 0.35,
+        "disengage": 0.45,
+        "peel": 0.5,
+        "crowdControl": 0.75,
+        "mobility": 0.35,
+        "waveClear": 0.95,
+        "objectiveControl": 0.4,
+        "backlineAccess": 0.4,
+        "poke": 0.85,
+        "sustain": 0.15,
+        "splitPush": 0.25,
+        "pickoff": 0.65
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    },
+    {
+      "id": "bane",
+      "name": "Bane",
+      "primaryRoles": [
+        "JUNGLE"
+      ],
+      "secondaryRoles": [
+        "EXP"
+      ],
+      "damageType": "mixed",
+      "metaPriority": 0.5,
+      "stats": {
+        "earlyGame": 0.75,
+        "midGame": 0.8,
+        "lateGame": 0.6,
+        "durability": 0.75,
+        "burst": 0.55,
+        "sustainedDamage": 0.65,
+        "engage": 0.6,
+        "disengage": 0.35,
+        "peel": 0.45,
+        "crowdControl": 0.55,
+        "mobility": 0.5,
+        "waveClear": 0.65,
+        "objectiveControl": 0.55,
+        "backlineAccess": 0.5,
+        "poke": 0.25,
+        "sustain": 0.65,
+        "splitPush": 0.7,
+        "pickoff": 0.5
+      },
+      "synergies": {},
+      "counters": {},
+      "counteredBy": {},
+      "aliases": [],
+      "maturity": "EXPERIMENTAL",
+      "confidence": "LOW",
+      "evidence": [],
+      "known": [
+        "Coarse role and composition estimates"
+      ],
+      "uncertain": [
+        "Current patch priority",
+        "Current role viability",
+        "Matchup strength"
+      ],
+      "proValue": null,
+      "rankedValue": null
+    }
+  ],
+  "reportedPatchSource": "https://mlbbhub.com/patch-notes",
+  "rosterSource": "https://mlbbhub.com/heroes",
+  "sequence": 2
+}
