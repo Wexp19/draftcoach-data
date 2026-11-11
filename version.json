@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "sequence": 1,
-  "datasetVersion": "0.2-roster-2026.10.31",
+  "sequence": 2,
+  "datasetVersion": "0.2-roster-2026.11.12",
   "minimumEngineVersion": 2,
-  "path": "releases/1/dataset.json",
-  "bytes": 157171,
-  "sha256": "066208b57d24576e7014d9a4076da6c10edef1131eea0683d81de2827cd74d09",
+  "path": "releases/2/dataset.json",
+  "bytes": 158143,
+  "sha256": "2af78b5fcbccee96d09152f478154d600aae69fc08417ba3f6844e2ea3e6d8e9",
   "patch": "2.2.16a (secondary-source report)",
-  "updatedAt": "2026-10-31T00:00:00Z"
+  "updatedAt": "2026-11-11T16:33:56Z"
 }
